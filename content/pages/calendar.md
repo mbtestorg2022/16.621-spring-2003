@@ -13,19 +13,382 @@ JLC = Jennifer Lynn Craig
 TA = Teaching Assistant  
 LS = Laboratory Staff
 
-| Week # | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Registration Day | Brief Introduction to 62X (EMM)  {{< br >}}Picking a Partner and Collaborative Skills (JLC)  {{< br >}}(1 hr) | &nbsp; | Course Overview (EMG)  {{< br >}}Tips on How to Succeed in 16.62X (TAs)  {{< br >}}(1 hr) | Last day to add 16.621 |
-| 2 | &nbsp; | Ethics (EMM), Notebooks (TA)  {{< br >}}  {{< br >}}Project Advisors can commit to student teams  {{< br >}}Students declare partners to the course staff  {{< br >}}(1 hr) | &nbsp; | Hypothesis, Objective, Success Criteria (EMG)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due: Memo re Collaboration and Expectations (JLC) | Due: Partner, Advisor, Project |
-| 3 | &nbsp; | Audience Analysis and 16.62X Style Guide (JLC)  {{< br >}}(1 hr) | &nbsp; |
-| 4 | &nbsp; | Review, Discussion of Draft HOS Statements (EMG)  {{< br >}}(1 hr) | &nbsp; | Literature Review (JCP)  {{< br >}}Experiment Design (EMM)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due in Class: Version I of Project Proposal (SOP) | &nbsp; |
-| 5 | Signups for Week 6 - Day 2 and 4 Team Meetings posted | Graphic Illustration (JLC)  {{< br >}}Test Matrices (EMM)  {{< br >}}  {{< br >}}Invited to 16.622 Oral Reports  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due: Notebook | &nbsp; | Measurement Techniques (EMG)  {{< br >}}  {{< br >}}Invited to 16.622 Oral Reports  {{< br >}}(1 hr) | Last Day to Sign Up for Week 6 - Day 2 and 4 Team Meetings |
-| 6 | &nbsp; | Error Analysis (EMG)  {{< br >}}  {{< br >}}Due: Oral Progress Report Assignment (JLC)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Team Meetings  {{< br >}}(2 hrs) | &nbsp; | Data Analysis I (EMM)  {{< br >}}Graphic Presentation (JLC)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Team Meetings  {{< br >}}(3 hrs) | &nbsp; |
-| 7 | &nbsp; | Data Reduction (JD)  {{< br >}}(1 hr) | &nbsp; | Oral Presentations (JLC)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due in Class: Version I (revised) and Version II of Project Proposal | &nbsp; |
-| 8 | &nbsp; | Intro to Shop and Sketching (TA & LS)  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due: Notebooks | Rehearse Oral Proposals | &nbsp; | Rehearse Oral Proposals |
-| 9 | &nbsp; | Oral Proposals (Version I Revised and Version II) and Feedback  {{< br >}}(3 hrs) | &nbsp; | Oral Proposals (Version I Revised and Version II) and Feedback  {{< br >}}(4 hrs) | &nbsp; |
-| 10 | &nbsp; | Engineering Drawings I (LS)  {{< br >}}(1 hr) | &nbsp; |
-| 11 | &nbsp; | Shop Demos (LS) | Shop Demos (LS) | Shop Demos (LS) |
-| 12 | Shop Demos (LS) | Due: Notebooks  {{< br >}}  {{< br >}}Invited to Attend 16.622 Final Oral Presentations  {{< br >}}(4 hrs) | Shop Demos (LS) | Invited to Attend 16.622 Final Oral Presentations  {{< br >}}(4 hrs) | &nbsp; |
-| 13 | &nbsp; | 15 min Team Meetings  {{< br >}}with Advisor and Staff  {{< br >}}(4 hrs) | &nbsp; |
-| 14 | &nbsp; | Class Feedback  {{< br >}}(1 hr)  {{< br >}}  {{< br >}}Due: Final Written Proposal (Versions III)  {{< br >}}  {{< br >}}16.622 Project Display (2 hrs) | &nbsp; | Due: PDF Version of Final Written Proposal |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Day 1
+{{< thclose >}}
+{{< thopen >}}
+Day 2
+{{< thclose >}}
+{{< thopen >}}
+Day 3
+{{< thclose >}}
+{{< thopen >}}
+Day 4
+{{< thclose >}}
+{{< thopen >}}
+Day 5
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Registration Day
+{{< tdclose >}}
+{{< tdopen >}}
+Brief Introduction to 62X (EMM)  
+Picking a Partner and Collaborative Skills (JLC)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Course Overview (EMG)  
+Tips on How to Succeed in 16.62X (TAs)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+Last day to add 16.621
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Ethics (EMM), Notebooks (TA)  
+  
+Project Advisors can commit to student teams  
+Students declare partners to the course staff  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis, Objective, Success Criteria (EMG)  
+(1 hr)  
+  
+Due: Memo re Collaboration and Expectations (JLC)
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Partner, Advisor, Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Audience Analysis and 16.62X Style Guide (JLC)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Review, Discussion of Draft HOS Statements (EMG)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Literature Review (JCP)  
+Experiment Design (EMM)  
+(1 hr)  
+  
+Due in Class: Version I of Project Proposal (SOP)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Signups for Week 6 - Day 2 and 4 Team Meetings posted
+{{< tdclose >}}
+{{< tdopen >}}
+Graphic Illustration (JLC)  
+Test Matrices (EMM)  
+  
+Invited to 16.622 Oral Reports  
+(1 hr)  
+  
+Due: Notebook
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Measurement Techniques (EMG)  
+  
+Invited to 16.622 Oral Reports  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day to Sign Up for Week 6 - Day 2 and 4 Team Meetings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Error Analysis (EMG)  
+  
+Due: Oral Progress Report Assignment (JLC)  
+(1 hr)  
+  
+Team Meetings  
+(2 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Data Analysis I (EMM)  
+Graphic Presentation (JLC)  
+(1 hr)  
+  
+Team Meetings  
+(3 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Data Reduction (JD)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations (JLC)  
+(1 hr)  
+  
+Due in Class: Version I (revised) and Version II of Project Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to Shop and Sketching (TA & LS)  
+(1 hr)  
+  
+Due: Notebooks
+{{< tdclose >}}
+{{< tdopen >}}
+Rehearse Oral Proposals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Rehearse Oral Proposals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Proposals (Version I Revised and Version II) and Feedback  
+(3 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Proposals (Version I Revised and Version II) and Feedback  
+(4 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering Drawings I (LS)  
+(1 hr)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Shop Demos (LS)
+{{< tdclose >}}
+{{< tdopen >}}
+Shop Demos (LS)
+{{< tdclose >}}
+{{< tdopen >}}
+Shop Demos (LS)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Shop Demos (LS)
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Notebooks  
+  
+Invited to Attend 16.622 Final Oral Presentations  
+(4 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+Shop Demos (LS)
+{{< tdclose >}}
+{{< tdopen >}}
+Invited to Attend 16.622 Final Oral Presentations  
+(4 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+15 min Team Meetings  
+with Advisor and Staff  
+(4 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Class Feedback  
+(1 hr)  
+  
+Due: Final Written Proposal (Versions III)  
+  
+16.622 Project Display (2 hrs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Due: PDF Version of Final Written Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
