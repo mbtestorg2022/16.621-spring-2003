@@ -3,6 +3,7 @@ content_type: resource
 description: Control Algorithms For Space Tug Rendezvous Statement of Project
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-621-experimental-projects-i-spring-2003/9b4f3222df69a978b1b38770494d0866_demierry1.pdf
 file_type: application/pdf
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: demierry1.pdf
 uid: 9b4f3222-df69-a978-b1b3-8770494d0866

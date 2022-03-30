@@ -4,6 +4,7 @@ description: Assessment of Shape Memory Alloy Actuators for Steered Parachutes F
   Proposal
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-621-experimental-projects-i-spring-2003/b3651d9d580aede71873c9294cd720cb_wongbri1.pdf
 file_type: application/pdf
+parent_uid: 7b0af3dd-abe1-c129-1975-74e7242d545f
 resourcetype: Document
 title: wongbri1.pdf
 uid: b3651d9d-580a-ede7-1873-c9294cd720cb

@@ -3,6 +3,7 @@ content_type: resource
 description: Experimental Projects Lab I / II Subject Syllabus
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-621-experimental-projects-i-spring-2003/55bb9a8777352bdb636d24b276c1d18f_62x_syll.pdf
 file_type: application/pdf
+parent_uid: 00658f78-cfe2-edb3-48b6-2a892c2c99a2
 resourcetype: Document
 title: 62x_syll.pdf
 uid: 55bb9a87-7735-2bdb-636d-24b276c1d18f
